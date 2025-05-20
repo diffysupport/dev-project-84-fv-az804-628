@@ -1,5 +1,5 @@
 basic:
-    name: White-Schamberger
+    name: Walter-Nicolas
     environments:
         production: 'https://google.com'
         staging: 'https://google.com'
